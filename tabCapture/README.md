@@ -1,10 +1,10 @@
 
-Page Redder
+Tab Capture Example
 =======
 
-Make the current page red
+Capture a tab and play in a
 
-[Zipfile](http://developer.chrome.com/extensions/examples/api/browserAction/make_page_red.zip)
+[Zipfile](http://developer.chrome.com/extensions/examples/api/tabCapture.zip)
 
 Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
 
@@ -12,4 +12,4 @@ Calls
 -----
 
 * [browserAction.onClicked](https://developer.chrome.com/extensions/browserAction#event-onClicked)
-* [tabs.executeScript](https://developer.chrome.com/extensions/tabs#method-executeScript)
+* [tabCapture.capture](https://developer.chrome.com/extensions/tabCapture#method-capture)

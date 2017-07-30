@@ -1,5 +1,6 @@
-**This is not an official mirror of the Chrome extension examples. Report any issues with the examples themselves to Google's issue trackers/forums.**
 
+
+**This is not an official mirror of the Chrome extension examples. Report any issues with the examples themselves to Google's issue trackers/forums.**
 
 chrome-extensions-examples
 ==========================
@@ -16,7 +17,7 @@ You can find the scraper used to generate this repository (except for a `git ini
 on [github](https://github.com/orbitbot/chrome-extension-scraper).
 
 
-Content is licensed under the [Google BSD License](http://code.google.com/google_bsd_license.html).
+Content is licensed under the [Google BSD License](https://developers.google.com/open-source/licenses/bsd).
 
 
 Example projects
@@ -37,7 +38,6 @@ Example projects
 * [Calculator](/app_1/)
 * [CatBlock](/catblock/)
 * [Catifier](/catifier/)
-* [Chrome Preprocessor Example](/chrome-preprocessor/)
 * [Chrome Query](/chrome-query/)
 * [Chrome Sounds](/fx/)
 * [Chromium Buildbot Monitor](/buildbot/)
@@ -103,6 +103,7 @@ Example projects
 * [Stylizr](/stylizr/)
 * [TTS Debug](/ttsdebug/)
 * [TTS Demo](/ttsdemo/)
+* [Tab Capture Example](/tabCapture/)
 * [Tab Inspector](/inspector/)
 * [Tab Shortcuts](/tab_shortcuts/)
 * [Tabs Zoom API Demo](/zoom/)
